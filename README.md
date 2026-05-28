@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="./ML PROJECT.png" alt="Business Failure Prediction Dashboard" width="100%">
 </p>
