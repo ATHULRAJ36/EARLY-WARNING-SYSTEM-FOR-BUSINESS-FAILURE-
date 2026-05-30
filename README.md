@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./ML PROJECT.png" alt="Business Failure Prediction Dashboard" width="100%">
-</p>
-
 # **Early Warning System for Business Failure Detection — Machine Learning Project**
 Machine Learning project for predicting business failure risk using financial and operational data.
 
